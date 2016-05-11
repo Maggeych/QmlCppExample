@@ -1,3 +1,4 @@
 # QmlCppExample
-A simple QtQuick QML Example with C++ integration ready to go.
-This is meant as the minimal starting point for your QML application.
+A simple __QtQuick__ QML Example with __C++ integration ready to go__.
+
+This is meant as the __minimal starting point__ for your QML application.
